@@ -2,7 +2,7 @@
 
 - :man: **Desenvolvedor Java**
 - :brazil: **Fortaleza-CE**
-- :computer: | **Java EE** | **Spring Boot** | **TypeScript** | **Angular** | **SQL** |
+- :computer: | **Java EE** | **Spring Boot** | **TypeScript** | **Angular** | **React** | **SQL** |
 
 <div align="center">
   <a href="https://github.com/jessesampaio">
