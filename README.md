@@ -1,6 +1,6 @@
 ## Olá, sou Jessé Sampaio!
 
-- :man: **Desenvolvedor Java**
+- :man: **Desenvolvedor Java | Spring Boot | APIs REST | Oracle | Angular**
 - :brazil: **Fortaleza-CE**
 - :computer: | **Java EE** | **Spring Boot** | **TypeScript** | **Angular** | **React** | **SQL** |
 
